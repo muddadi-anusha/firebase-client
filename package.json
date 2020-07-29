@@ -1,5 +1,5 @@
 {
-  "name": "node-project",
+  "name": "firebase-client",
   "version": "1.0.0",
   "description": "Testing nodejs with firebase",
   "main": "index.html",
